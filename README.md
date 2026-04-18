@@ -8,7 +8,7 @@ A minimalist, elegant literary portfolio website crafted to reflect the depth, s
 
 ## ✨ Live Website
 
-🔗 https://your-username.github.io/zahik-website/
+LIVE WEBSITE : https://poeticzai.netlify.app/
 
 ---
 
