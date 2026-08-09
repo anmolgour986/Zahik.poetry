@@ -1,4 +1,4 @@
-# 🌙 Zahik Abas Dar — Poet & Visionary
+# 🌙 Poet & Visionary
 
 > *“A poem is not written — it is excavated.”*
 
@@ -42,15 +42,6 @@ It creates an immersive reading experience rather than a typical website.
 * CSS3 (Custom styling, no frameworks)
 * Google Fonts
 
----
-
-## 📂 Project Structure
-
-```
-zahik-website/
-│── index.html
-│── README.md
-```
 
 ---
 
@@ -80,11 +71,6 @@ This is a personal project, but suggestions and improvements are welcome.
 
 ---
 
-## 📬 Contact
-
-For collaborations, literary events, or inquiries:
-
-📧 [zahikabas.dar@poetry.com](mailto:zahikabas.dar@poetry.com)
 
 ---
 
